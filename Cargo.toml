@@ -5,5 +5,7 @@ authors = ["Bernardo Meurer <meurerbernardo@gmail.com>", "est31 <MTest31@outlook
 license = "MIT/Apache-2.0"
 
 [dependencies]
-hound = "3.4.0"
 fftw = "0.4.0"
+
+[dev-dependencies]
+hound = "3.4.0"
