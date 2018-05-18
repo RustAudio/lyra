@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Bernardo Meurer <meurerbernardo@gmail.com>", "est31 <MTest31@outlook.com>"]
 
 [dependencies]
+hound = "3.4.0"
+fftw = "0.4.0"
